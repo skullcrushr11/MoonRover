@@ -111,6 +111,4 @@ cd ~/roverchallenge-ru/
 just sim
 ```
 
-После запуска вы должны увидеть симулятор Gazebo и среду визуализации RViz:
-
 ![Simulator_ROS2](https://github.com/user-attachments/assets/9a479dd4-403d-4034-8b4d-8b78eca259ab)
